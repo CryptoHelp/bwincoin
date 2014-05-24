@@ -1,0 +1,9 @@
+Building BwinCoin
+
+See doc/readme-qt.rst for instructions on building BwinCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BwinCoin.
+
+See doc/build-*.txt for instructions on building BwinCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BwinCoin.
